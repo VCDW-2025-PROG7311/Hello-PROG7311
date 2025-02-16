@@ -16,12 +16,13 @@ In your first two years, you learnt Java and C#, among other technologies. This 
 - ⚡ It is technically more complex (more can break here than ever before).
 - 🏗 We will learn about design patterns which solve common programming problems and help us write better code.
 - 🏛 We will learn about the implementation of architecture patterns that will allow us to build apps that cater to several users with robustness.
-- ☁ We will learn how to use containerisation and DevOps to deliver our apps cloud
+- ☁ We will learn how to use containerisation and DevOps to deliver our apps.
 - 🎯 We will cover content that you will be asked about in job interviews around architecture and infrastructure (Trust me. I've been there 👨‍💻).
 
 ## 🏆 How will the module be taught?
 - 🎓 We will focus on building you for a career as a software developer. This ensures you rock any assessment. (Again, trust me. I've done this before). After all, within a year, you will be done with this qualification 🎓
 - 💡 Its not difficult to just pass, but I want to build rockstars! This means that you will need to write code, break things, and fix things. It's the only way in which one can learn code! 💻🔥
+- 💻 We will only use VS Code for this module.
 
 ## 🛠 How does ICE work?
 My ICE are simple, submit any four apps we built in class. At some point, I will give you GitHub Classroom links to claim repos which you will push to.  
