@@ -27,7 +27,7 @@ In your first two years, you learnt Java and C#, among other technologies. This 
 ## 🛠 How does ICE work?
 My ICE are simple, submit any four apps we built in class. At some point, I will give you GitHub Classroom links to claim repos which you will push to.  
 
-❌ No submission, empty repo, or blank submission = 0.
+❌ No submission, empty repo, wrong language, or blank submission = 0.
 
 ## 👋 Who am I?  
 My name is Ebrahim, but many people call me EB (and that's fine). I am currently the Head of CS at IIE Varsity College Durban North. I don't really like writing about myself, but I am open to questions.  
