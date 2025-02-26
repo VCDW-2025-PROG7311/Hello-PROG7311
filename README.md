@@ -33,6 +33,3 @@ My ICE are simple, submit any four apps we built in class. At some point, I will
 My name is Ebrahim, but many people call me EB (and that's fine). I am currently the Head of CS at IIE Varsity College Durban North. I don't really like writing about myself, but I am open to questions.  
 
 🔗 You can find me here on LinkedIn: [Ebrahim Adam](https://www.linkedin.com/in/ebadamza/).  
-
-
-🚀 Let's build something great together!
