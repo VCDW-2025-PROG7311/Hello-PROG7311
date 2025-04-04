@@ -9,6 +9,7 @@ Original MathApp: https://github.com/VCDW-2025-PROG7311/MathApp
 1. Build an API that returns JSON - https://github.com/VCDW-2025-PROG7311/MathAPI
 1. Test in Postman 
 1. Build a client that consumes the API - https://github.com/VCDW-2025-PROG7311/MathAPIClient
+1. Make sure auth happens in the API and not the client.
 
 Where are we?
 1. Revising .NET Entity Framework Core with DB-first (DONE!)
