@@ -1,4 +1,4 @@
-# 📝 Adding JWT
+# 📝 Adding SendGrid Microservice using a Minimal API
 
 ## 📌 Scenario:  
 Here, we build an email microservice using SendGrid.
@@ -6,7 +6,8 @@ Here, we build an email microservice using SendGrid.
 ## ✅ Requirements:  
 1. Read up on [SendGrid](https://sendgrid.com/en-us/solutions/email-api)
 1. Read up on [Minimal API's](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-8.0).
-
+1. Build!
+1. Consult [this repo](https://github.com/VCDW-2025-PROG7311/EmailService)
 
 Where are we?
 1. Revising .NET Entity Framework Core with DB-first (DONE!)
